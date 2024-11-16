@@ -11,3 +11,6 @@ A template you can reference when creating new data analytics projects.
 - [ ] task 4
 
 ### Change log
+
+- 2024-11-15 SAP added new items
+- 2024-11-15 SAP deleted old items
