@@ -2,6 +2,9 @@
 
 # Folers
 
+source data:
+https://www.kaggle.com/datasets/whisperingkahuna/gunviolence1
+
 ### raw
 
 Original, unmodified data after downloading, scraping, etc
